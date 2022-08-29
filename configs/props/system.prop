@@ -48,7 +48,7 @@ ro.vendor.qti.va_odm.support=1
 persist.sys.fuse.passthrough.enable=true
 
 # Graphics
-persist.hwc.enable_vds=1
+persist.hwc.enable_vds=0
 debug.cpurend.vsync=false
 
 # Force triple frame buffers
