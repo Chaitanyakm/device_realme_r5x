@@ -488,4 +488,7 @@
 
     <!-- Fingerprint from stock ROM -->
     <string name="config_stockFingerprint" translatable="false">trinket-user 10 QKQ1.200209.002 release-keys</string>
+
+    <!-- Default values for LiveDisplay -->
+    <bool name="config_enableLiveDisplay">false</bool>
 </resources>
