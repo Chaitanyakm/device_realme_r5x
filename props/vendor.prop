@@ -158,6 +158,7 @@ persist.sys.sf.color_saturation=1.1
 persist.sys.sf.native_mode=0
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
+debug.sf.enable_egl_image_tracker=1
 
 # DRM
 drm.service.enabled=true
