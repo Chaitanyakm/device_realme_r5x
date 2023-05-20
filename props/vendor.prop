@@ -168,9 +168,6 @@ ro.max.fling_velocity=20000
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/frp
 
-# HWUI
-ro.hwui.render_ahead=20
-
 # Keystore
 ro.hardware.keystore_desede=true
 
