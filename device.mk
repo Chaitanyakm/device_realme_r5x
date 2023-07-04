@@ -385,9 +385,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/privapp-permissions-qti.xml:system/etc/permissions/privapp-permissions-qti.xml \
     $(LOCAL_PATH)/configs/telephony_product_privapp-permissions-qti.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/telephony_product_privapp-permissions-qti.xml
 
-# RealmeDirac
-$(call inherit-product, $(LOCAL_PATH)/app/RealmeDirac/dirac.mk)
-
 # RealmeParts
 PRODUCT_PACKAGES += \
     RealmeParts
@@ -489,6 +486,9 @@ PRODUCT_COPY_FILES += \
 # Vibrator
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.vibrator.service
+
+# V4a
+$(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
 
 # Wifi
 PRODUCT_PACKAGES += \
