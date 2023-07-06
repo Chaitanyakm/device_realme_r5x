@@ -9,7 +9,7 @@ DEVICE_PATH := device/realme/r5x
 BOARD_VENDOR := realme
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := RMX1911,RMX1925,RMX1927,RMX2030,r5x,realme_trinket
+TARGET_OTA_ASSERT_DEVICE := RMX1911,RMX1925,RMX1927,RMX2030,RMX1919,r5x,realme_trinket
 
 # Android Verified Boot
 BOARD_AVB_ENABLE := true
