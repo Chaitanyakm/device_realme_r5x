@@ -11,6 +11,7 @@ PRODUCT_PACKAGES += \
     android.hardware.audio@5.0-impl \
     android.hardware.audio.effect@5.0-impl \
     android.hardware.audio.effect@2.0-service \
+    audio.primary.$(TARGET_BOARD_PLATFORM) \
     android.hardware.soundtrigger@2.1-impl \
     android.hardware.audio.service \
     audio.primary.trinket \
@@ -559,3 +560,6 @@ PRODUCT_PACKAGES += \
     android.system.net.netd@1.1.vendor \
     libadf.vendor \
     libtinyxml.vendor
+
+    #Bcr
+    $(call inherit-product, vendor/bcr/bcr.mk)

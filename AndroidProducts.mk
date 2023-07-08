@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2022 The LineageOS Project
+# Copyright (C) 2022-2023 The blazeOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_r5x.mk
+    $(LOCAL_DIR)/blaze_r5x.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_r5x-user \
-    aosp_r5x-userdebug \
-    aosp_r5x-eng
+    blaze_r5x-user \
+    blaze_r5x-userdebug \
+    blaze_r5x-eng
