@@ -2571,9 +2571,9 @@ vendor/lib64/libcacertclient.so|69ae73b9be13507ff39398ac5813ad709b8b7c32
 vendor/lib64/libjnihelper.so|d3687f06782adc074a38b9ff3c1aacd57ec7a6e7
 vendor/lib64/vendor.qti.hardware.cacert@1.0.so|1633c31212d1ea9338b79ebfc2476f83424f36ee
 
-# Charger - from LA.UM.9.11.r1-03900-NICOBAR.0
-vendor/bin/hvdcp_opti|3eaaae578c2f07cc615e8d76bbfe904be6176a77
-vendor/bin/init.qti.chg_policy.sh|ecbd0df01254fb28ddfe8174b1a16b96a87303ff
+# Charger - from trinket-user-12-SKQ1.211230.001-00WW_3_490-release-keys
+vendor/bin/hvdcp_opti|81644d4e0db85a1c5de8302096d63fcb47ccbc51
+vendor/bin/init.qti.chg_policy.sh|db04ba6806a9264b95dca39482e75c78
 vendor/etc/charger_fstab.qti|8464c139d93f05e86ff9c9d31b3e8617b8d9476e
 vendor/etc/init/vendor.qti.hardware.charger_monitor@1.0-service.rc|29b23be4f604282abf715f86aec9697175a9aaad
 
