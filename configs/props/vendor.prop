@@ -159,6 +159,9 @@ persist.sys.sf.native_mode=0
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
 debug.sf.enable_egl_image_tracker=1
+ro.vendor.display.svi=1
+vendor.display.svi.config=1
+vendor.display.svi.config_path=/vendor/etc/SVIConfig_19631.xml
 
 # DRM
 drm.service.enabled=true
