@@ -2985,27 +2985,22 @@ vendor/lib64/libkeymasterprovision.so
 vendor/lib64/libkeymasterutils.so
 vendor/lib64/libqtikeymaster4.so
 
-# Listen - from LA.UM.9.11.r1-03900-NICOBAR.0
-vendor/lib/libadpcmdec.so|491fedbdcf9a395340ce4142c277156c0056bcf8
-vendor/lib/libcapiv2svacnn.so|da98f2be1e8bd1aba364610063e70c34cab844d2
-vendor/lib/libcapiv2vop.so|b47caa2eeec81e98de03439548d9b9199222eda7
-vendor/lib/libgcs-calwrapper.so|fa5b5b18a5f7947dcff6d01ce36d32cedb9cc49b
-vendor/lib/libgcs-ipc.so|b6886d8195e0549226547aa4cbc1300063db7265
-vendor/lib/libgcs-osal.so|0e762ecaf6b0d59e5322323b0fef17e8c76d0b4a
-vendor/lib/libgcs.so|711e764a2e011492b1beacf8de5122dae8064b56
-vendor/lib/liblistensoundmodel2.so|dac0e3e7d24c0ec3d9eab67976a2fecd08b6bb72
-vendor/lib/libsmwrapper.so|88be3c0e0da4a25a4a3ca08b9331716f5b9abd69
-vendor/lib64/libcapiv2svacnn.so|a6b186beee18d45b92e14a8e1411e13e4d9330de
-vendor/lib64/libcapiv2vop.so|3a73591503cd935cb6e2e2175037fde5517c2e91
-vendor/lib64/libgcs-calwrapper.so|40880982d290a594db94e4a438007390819a9e32
-vendor/lib64/libgcs-ipc.so|b34310aac524dd15f2348e83ecaa5ef79e8f0ec3
-vendor/lib64/libgcs-osal.so|e5cd3ed3385b3797a67a8f4519eb59d63ae0a5d4
-vendor/lib64/libgcs.so|a0853e85f02f8684f3db54d00b570cd40da4abf2
-vendor/lib64/liblistensoundmodel2.so|85a891767af349a096393c8dbe15a6c3343de397
-
-# Listen - Hardware
-vendor/lib/hw/sound_trigger.primary.trinket.so
-vendor/lib64/hw/sound_trigger.primary.trinket.so
+# Listen - from Nokia trinket-user-12-SKQ1.211230.001-00WW_3_490-release-keys
+vendor/lib/hw/android.hardware.soundtrigger@2.1-impl.so|7f46b4b9439d7733aeff74f91a96d786279938c6
+vendor/lib/hw/sound_trigger.primary.trinket.so|8ed7972504225535ebf087fb23a9f2410e839d07
+vendor/lib/libadpcmdec.so|297d8fecff85b6dc67ff19e788bcf3f1286014a0
+vendor/lib/libgcs-calwrapper.so|02c01c3bed28ae6e5bd33c35736e0bcdf6ee4207
+vendor/lib/libgcs-ipc.so|a916d7a642241d81f62c075c640a31533e776060
+vendor/lib/libgcs-osal.so|2f1ff749e6c2210d715486ac0d01046f2aa93abc
+vendor/lib/libgcs.so|30873c29fcae94d4f0f78e501042cc1593a5d3ef
+vendor/lib/liblistensoundmodel2.so|100f6249e1989446c7a64726773e8ae0b1905217
+vendor/lib/libsmwrapper.so|af37e8bd00fd4130094349c1d94e83c5b0c20550
+vendor/lib64/hw/sound_trigger.primary.trinket.so|cd71f498ddaebedb132b2b5bf8ef20dff97b9080
+vendor/lib64/libgcs-calwrapper.so|01cf4ef454fa4e0c7a424181dd3d69fe269ab8f0
+vendor/lib64/libgcs-ipc.so|718f83b6cc9006067383ea8f2f38d4bc97ec5f32
+vendor/lib64/libgcs-osal.so|6563b261374b1cf54ce1eaf4eda4b98ea2a0ecd7
+vendor/lib64/libgcs.so|57e707e1355270853fa05cc251e1dc8f00d754e7
+vendor/lib64/liblistensoundmodel2.so|d866305eb4fcce44477227c55f26c0c185a96ff4
 
 # Media - from LA.UM.9.11.r1-03900-NICOBAR.0
 -vendor/lib/libMpeg4SwEncoder.so|060eb742d882b0a557371520fa6d13d523143ba5
