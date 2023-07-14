@@ -2719,20 +2719,20 @@ vendor/etc/seccomp_policy/vendor.qti.hardware.dsp.policy|b5075bcf4e885b01b25e7ec
 vendor/lib/vendor.qti.hardware.dsp@1.0.so|e553aafebc4b5f2908fc03f29b086cd1261aa454
 vendor/lib64/vendor.qti.hardware.dsp@1.0.so|5f30d9c5fff738e6194a36a5b93372fa32ec0471
 
-# FM - from LA.UM.9.11.r1-03900-NICOBAR.0
-system_ext/lib/fm_helium.so|7ef734f43c11d1942eb4f1919e58bf2e7964e084
-system_ext/lib/libfm-hci.so|af72145acf79c8f7effc00ec2bf61ad0643944ca
-system_ext/lib/vendor.qti.hardware.fm@1.0.so|e97dab1cdfcc91be0c76854d91aac8580b4066cd
-system_ext/lib64/fm_helium.so|8716fc869f27f962996f4a63868f4e8d79e56651
-system_ext/lib64/libfm-hci.so|a4ea896b2b0e95f0df3e0eb9a1605eb639fe6556
-system_ext/lib64/vendor.qti.hardware.fm@1.0.so|05a8500d93be62f49baf249b04a08f1db5d45d3b
-vendor/bin/fm_qsoc_patches|dec7a2ad1a4d3c6ed13bcf77f1fa9bda1ff83c03
-vendor/etc/init/init.qti.fm.rc|4f5459058debbea76991e69f8522126f6655fd3b
-vendor/etc/init.qti.fm.sh|0ac820dd85ebdf5fa73b5e971f6787ff35ceb65d
-vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so|a1fa17975cc7a2433e9383fe161ee3434fc20df1
-vendor/lib/vendor.qti.hardware.fm@1.0.so|479edd57130d47cc84c92d71837a1e50b5b29663
-vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so|c82d3f7c0e6f9f30a42a0e4158077e692e62de77
-vendor/lib64/vendor.qti.hardware.fm@1.0.so|eafe7c9254077253ad9512fa5622948954769420
+# FM From trinket-user-12-SKQ1.211230.001-00WW_3_490-release-keys
+system_ext/lib/fm_helium.so|dc21df775c17452f09b5b6b2bfca313e234998a6
+system_ext/lib/libfm-hci.so|bf6aa55f4b8a3a5021e39176ac340bba7a95a11c
+system_ext/lib/vendor.qti.hardware.fm@1.0.so|7ee5f5d36e44681dae56f2170b588f7372a4a1ea
+system_ext/lib64/fm_helium.so|a727713c280d661dc7550bc52df510bd03ade633
+system_ext/lib64/libfm-hci.so|75a15620a0bd9edcace2b5a8596b6e41f4e22d9c
+system_ext/lib64/vendor.qti.hardware.fm@1.0.so|2e28044695e1abf83282a671d670fb57ab9f5df9
+vendor/bin/fm_qsoc_patches|81e672bd214bdf0960de4d736dc1ce7da763e5d2
+vendor/lib/ftm_fm_lib.so|d55282ab4f98cf0f56d904828040d828a3551fbd
+vendor/lib/hw/vendor.qti.hardware.fm@1.0-impl.so|f1ef0dcb036623f582aaa7cc270b5519185b14be
+vendor/lib/vendor.qti.hardware.fm@1.0.so|c036fbe16575a800994792431d10f6d1173cea26
+vendor/lib64/ftm_fm_lib.so|df09a79437966fd5c1b901c91841d5df48dc70c7
+vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so|c1652bf465c48800f31eb9485e61e8be4a537c6d
+vendor/lib64/vendor.qti.hardware.fm@1.0.so|f6e23f902b7e15232b20af55161a24da93ffe25f
 
 # Fingerprint
 vendor/bin/hw/vendor.oppo.hardware.biometrics.fingerprint@2.1-service
